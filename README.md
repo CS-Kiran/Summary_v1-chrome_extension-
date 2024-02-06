@@ -1,6 +1,9 @@
 # Summary Chrome Extension
 
 The "Summary" Chrome extension allows users to summarize and translate input text into the Hindi language. It integrates text summarization and translation features directly into the browser for convenient usage.
+<p align="center">
+  <img src="frontend/src/assets/SummaryDemoGIF.gif" alt="Particle Demo GIF">
+</p>
 
 ## Features
 
