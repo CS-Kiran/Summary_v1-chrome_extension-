@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+
+    "name": "Summary",
+    "description": "This extension shows a summarized result and can translate it into Hindi language",
+    "version": "1.0",
+    "icons": {
+        "16": "short.png",
+        "32": "short.png",
+        "48": "short.png",
+        "128": "short.png"
+    },
+
+    "action": {
+        "default_popup": "index.html"
+    },
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ]
+}
