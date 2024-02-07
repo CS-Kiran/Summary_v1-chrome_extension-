@@ -24,7 +24,7 @@ The "Summary" Chrome extension allows users to summarize and translate input tex
 2. Right-click on the selected text.
 3. Choose the "Summary" option from the context menu.
 4. Select "Summarize" to generate a summary of the text.
-5. Select "Translate to Hindi" to translate the text into the Hindi language.
+5. Select "Translate" to translate the text into the Hindi language.
 
 ## Technologies Used
 
